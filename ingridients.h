@@ -638,7 +638,7 @@ public:
 			make_pair(ClassEffect::Positive, EffectsName::RestoreStamina),
 			make_pair(ClassEffect::Positive, EffectsName::FortifySneak),
 			make_pair(ClassEffect::Negative, EffectsName::LingeringDamageMagicka),
-			make_pair(ClassEffect::Negative, EffectsName::ResistFrost)
+			make_pair(ClassEffect::Positive, EffectsName::ResistFrost)
 			)
 		);//PurpleMountainFlower
 		push_back(Ingridient(
