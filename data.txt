@@ -1,0 +1,115 @@
+  0 AbeceanLongfin        0
+  1 AncestorMothWing      0
+  2 AshCreepCluster       0
+  3 AshHopperJelly        0
+  4 Ashen_GrassPod        0
+  5 BearClaws             0
+  6 Bee                   0
+  7 BeehiveHusk           0
+  8 BeritsAshes           0
+  9 BleedingCrown         0
+ 10 Blisterwort           0
+ 11 BlueButterflyWing     0
+ 12 BlueDartwing          0
+ 13 BlueMountainFlower    0
+ 14 BoarTusk              0
+ 15 BoneMeal              0
+ 16 BriarHeart            0
+ 17 BurntSprigganWood     0
+ 18 ButterflyWing         0
+ 19 CanisRoot             0
+ 20 CharredSkeeverHide    0
+ 21 ChaurusEggs           0
+ 22 ChaurusHunterAntennae 0
+ 23 ChickensEgg           0
+ 24 CreepCluster          0
+ 25 CrimsonNirnroot       0
+ 26 CyrodilicSpadetail    0
+ 27 DaedraHeart           0
+ 28 Deathbell             0
+ 29 DragonsTongue         0
+ 30 DwarvenOil            0
+ 31 Ectoplasm             0
+ 32 ElvesEar              0
+ 33 EmperorParasolMoss    0
+ 34 EyeOfSabreCat         0
+ 35 FalmerEar             0
+ 36 FelsaadTernFeathers   0
+ 37 FineCutVoidSalts      0
+ 38 FireSalts             0
+ 39 FlyAmanita            0
+ 40 FrostMirriam          0
+ 41 FrostSalts            0
+ 42 Garlic                0
+ 43 GiantLichen           0
+ 44 GiantsToe             0
+ 45 Gleamblossom          0
+ 46 GlowDust              0
+ 47 GlowingMushroom       0
+ 48 GrassPod              0
+ 49 HagravenClaw          0
+ 50 HagravenFeathers      0
+ 51 HangingMoss           0
+ 52 HawkBeak              0
+ 53 HawkFeathers          0
+ 54 HawksEgg              0
+ 55 Histcarp              0
+ 56 Honeycomb             0
+ 57 HumanFlesh            0
+ 58 HumanHeart            0
+ 59 IceWraithTeeth        0
+ 60 ImpStool              0
+ 61 JarrinRoot            0
+ 62 JazbayGrapes          0
+ 63 JuniperBerries        0
+ 64 LargeAntlers          0
+ 65 Lavender              0
+ 66 LunaMothWing          0
+ 67 MoonSugar             0
+ 68 MoraTapinella         0
+ 69 MudcrabChitin         0
+ 70 NamirasRot            0
+ 71 NetchJelly            0
+ 72 Nightshade            0
+ 73 Nirnroot              0
+ 74 NordicBarnacle        0
+ 75 OrangeDartwing        0
+ 76 Pearl                 0
+ 77 PineThrushEgg         0
+ 78 PoisonBloom           0
+ 79 PowderedMammothTusk   0
+ 80 PurpleMountainFlower  0
+ 81 RedMountainFlower     0
+ 82 RiverBetty            0
+ 83 RockWarblerEgg        0
+ 84 SabreCatTooth         0
+ 85 SalmonRoe             0
+ 86 SaltPile              0
+ 87 ScalyPholiota         0
+ 88 Scathecraw            0
+ 89 SilversidePerch       0
+ 90 SkeeverTail           0
+ 91 SlaughterfishEgg      0
+ 92 SlaughterfishScales   0
+ 93 SmallAntlers          0
+ 94 SmallPearl            0
+ 95 Snowberries           0
+ 96 SpawnAsh              0
+ 97 SpiderEgg             0
+ 98 SprigganSap           0
+ 99 SwampFungalPod        0
+100 Taproot               0
+101 ThistleBranch         0
+102 TorchbugThorax        0
+103 TramaRoot             0
+104 TrollFat              0
+105 TundraCotton          0
+106 VampireDust           0
+107 VoidSalts             0
+108 Wheat                 0
+109 WhiteCap              0
+110 WispWrappings         0
+111 YellowMountainFlower  0
+
+
+
